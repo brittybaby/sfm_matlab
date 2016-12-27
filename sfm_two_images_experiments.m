@@ -6,8 +6,8 @@ close all;
 %I1 = imread('/home/nets/projects/Matlab/Round_table/im3.bmp');
 %I2 = imread('/home/nets/projects/Matlab/Round_table/im4.bmp');
 
- I1 = imread('G:/Backup/projects/Matlab/Stereo/sample_images_l/image1.jpg');
- I2 = imread('G:/Backup/projects/Matlab/Stereo/sample_images_l/image30.jpg');
+ I1 = imread('image1.jpg');
+ I2 = imread('image30.jpg');
 
 
 figure
